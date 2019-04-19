@@ -8,7 +8,7 @@ Operating System homework list
 
     *   the solution of deadlock
 
-3. Dining philosophers problem (another solution with mutex)
+3. Dining philosophers problem (another solution with mutex)
 
 4. Memory management
 
