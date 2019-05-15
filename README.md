@@ -2,7 +2,7 @@ Operating System homework list
 ==
 1. hw1_shell
 
-    *   making your own shell with fork, pipe...etc. 
+    *   making your own shell by system call like fork, pipe...etc. 
 
 2. Dining philosophers problem
 
@@ -12,8 +12,8 @@ Operating System homework list
 
 4. Memory management
 
-    *   makeing same function of malloc
+    *   making same function of malloc
 
 5. Memory Monitor
 
-    *   Observed the memory when there is something write in or out 
+    *   observing the memory when there is something write in or out 
